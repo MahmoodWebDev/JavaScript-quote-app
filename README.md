@@ -55,7 +55,6 @@ This project is a simple web application that fetches and displays random quotes
 2. Click the "Generate Quote" button to display a new quote.
 
 ## Demo
-
 ![App Screenshot](https://github.com/MahmoodWebDev/JavaScript-quote-app/blob/main/ScreenShot.png)
 
 ## Author

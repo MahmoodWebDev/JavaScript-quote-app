@@ -56,7 +56,7 @@ This project is a simple web application that fetches and displays random quotes
 
 ## Demo
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./ScreenShot.png)
 
 ## Author
 Mahmood Shah

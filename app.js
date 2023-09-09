@@ -35,11 +35,11 @@ function generateQuote() {
     let randomIndex = Math.floor(Math.random() * quotes.length);
     // Select a random quote using the random index
     let randomQuote = quotes[randomIndex];
+    // Remove "type.fit" from the author's name if it exists
+    let authorName = randomQuote.author ? randomQuote.author.replace("type.fit", "").trim() : "Unknown";
     // Display the random quote text on the webpage
     document.getElementById("quote-text").innerText = randomQuote.text;
     // Display the random quote author on the webpage, or "Unknown" if the author is null
-    document.getElementById("quote-author").innerText = randomQuote.author
-      ? `- ${randomQuote.author}`
-      : "- Unknown";
+    document.getElementById("quote-author").innerText = `- ${authorName}`;
   }
 }

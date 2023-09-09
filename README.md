@@ -56,7 +56,7 @@ This project is a simple web application that fetches and displays random quotes
 
 ## Demo
 
-(https://github.com/MahmoodWebDev/JavaScript-quote-app/blob/main/ScreenShot.png)
+![App Screenshot](https://github.com/MahmoodWebDev/JavaScript-quote-app/blob/main/ScreenShot.png)
 
 ## Author
 Mahmood Shah

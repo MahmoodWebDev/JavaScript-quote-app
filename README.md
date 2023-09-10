@@ -4,6 +4,8 @@
 
 This project is a simple web application that fetches and displays random quotes. It's built with plain HTML, CSS, and JavaScript—no frameworks or libraries needed. It fetches quotes from an external API and displays them on a user-friendly interface.
 
+Live: (https://js-quote.vercel.app/)
+
 ## Features
 
 - Fetches random quotes from an external API

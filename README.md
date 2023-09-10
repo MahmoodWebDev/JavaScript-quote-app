@@ -4,7 +4,6 @@
 
 This project is a simple web application that fetches and displays random quotes. It's built with plain HTML, CSS, and JavaScript—no frameworks or libraries needed. It fetches quotes from an external API and displays them on a user-friendly interface.
 
-Live: (https://js-quote.vercel.app/)
 
 ## Features
 
@@ -57,6 +56,7 @@ Live: (https://js-quote.vercel.app/)
 2. Click the "Generate Quote" button to display a new quote.
 
 ## Demo
+Live: (https://js-quote.vercel.app/)
 ![App Screenshot](https://github.com/MahmoodWebDev/JavaScript-quote-app/blob/main/ScreenShot.png)
 
 ## Author
